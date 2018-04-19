@@ -9,3 +9,7 @@ the ACCU website.
 
 This repository is separate from the website repository to avoid the problems of that repository getting
 huge and unwieldy due to these "blobs".
+
+## Naming Strategy
+
+This repository uses a naming strategy of `presenter_name_-_talk_title.pdf` with all spaces replaced with `_`.
