@@ -12,4 +12,10 @@ huge and unwieldy due to these "blobs".
 
 ## Naming Strategy
 
-This repository uses a naming strategy of `presenter_name_-_talk_title.pdf` with all spaces replaced with `_`.
+This repository uses a PDF file naming strategy _presenter-name_\_-\__session-title_.pdf avoiding all spaces by replacing
+spaces with underscores. For many presenter sessions list all presenters separated with double
+underscore. So for example:
+
+only\_presenter\_name\_-\_title\_of\_the\_session.pdf
+
+presenter\_one\_name\_\_presenter\_two\_name\_-\_title\_of\_this\_two\_person\_session.pdf
